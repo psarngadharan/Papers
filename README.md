@@ -17,7 +17,7 @@ This repository contains a collection of my research publications, including jou
 
 ## How to Use  
 - Click the links to access the full papers.  
-- Some journals may require a subscription. Contact me if you need access.  
+- Some journals may require a subscription. However, the PDF files are available in the repository for stress-free and economical access. Click on the PDFs and enjoy reading.
 
  
 # Citation
