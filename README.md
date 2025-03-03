@@ -12,4 +12,4 @@ This repository contains a collection of my research publications, including jou
 - **SxIP binding disrupts the constitutive homodimer interface of EB1 and stabilizes EB1 monomer**  
   - Authors: A. Author, B. Author  
   - Published in *Journal Name*, Year.  
-  - [DOI]((https://doi.org/10.1016/j.bpj.2021.03.004))  
+  - [DOI](https://doi.org/10.1016/j.bpj.2021.03.004)  
